@@ -1,5 +1,4 @@
 # Work
-Small programs I have written 
 
 This is a showcase of my work.
 Above are 3 programs that I am proud of! I know now some of my mistakes in writing them and I have learned alot since writing these
